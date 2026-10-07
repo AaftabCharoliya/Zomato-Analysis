@@ -1,0 +1,101 @@
+# 🍽️ Zomato Data Analysis Dashboard
+
+## 📊 Project Overview
+
+The **Zomato Data Analysis Dashboard** is an interactive Power BI dashboard designed to analyze restaurant data and uncover meaningful insights related to restaurant ratings, customer votes, cuisines, cities, online orders, and average cost for two.
+
+The main objective of this project is to transform raw Zomato restaurant data into an interactive and easy-to-understand dashboard that helps users explore restaurant performance and customer preferences.
+
+---
+
+## 🎯 Project Objectives
+
+- Analyze restaurant ratings
+- Identify popular cuisines based on customer votes
+- Analyze restaurant data across different cities
+- Understand online order availability
+- Analyze average cost for two
+- Create interactive data visualizations
+- Extract meaningful insights from restaurant data
+- Present data in a simple and user-friendly dashboard
+
+---
+
+## 📌 Key Dashboard Features
+
+### ⭐ Restaurant Rating Analysis
+
+The dashboard uses a clustered bar chart to compare restaurants based on their ratings.
+
+### 🍴 Cuisine Analysis
+
+A donut chart is used to analyze cuisines based on the number of customer votes, helping identify popular cuisine categories.
+
+### 🌎 City Analysis
+
+The dashboard provides city-level analysis to understand how restaurant-related metrics vary across different locations.
+
+### 🛵 Online Order Analysis
+
+The dashboard analyzes the availability of online ordering across different cities.
+
+### 💰 Average Cost Analysis
+
+Users can filter restaurants by city and analyze the average cost for two people.
+
+### 🎛️ Interactive Filtering
+
+The dashboard includes interactive city selection, allowing users to explore the data dynamically.
+
+---
+
+## 📊 Dashboard Visualizations
+
+The dashboard contains the following visualizations:
+
+- Restaurant Rating Analysis
+- Cuisine-wise Customer Votes
+- City-wise Online Order Analysis
+- City Filter
+- Average Cost for Two
+- Interactive Zomato Dashboard
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Power BI** – Dashboard development and data visualization
+- **Data Analysis** – Exploratory analysis and insight generation
+- **Data Visualization** – Interactive charts and filtering
+
+---
+
+## 📈 Key Insights
+
+The dashboard helps analyze:
+
+- Which restaurants receive higher ratings
+- Which cuisines receive more customer votes
+- How restaurant data varies by city
+- Availability of online ordering across cities
+- Differences in average restaurant cost across locations
+- Customer preferences based on votes and ratings
+
+---
+
+## 🔄 Project Workflow
+
+```text
+Raw Zomato Data
+       ↓
+Data Cleaning
+       ↓
+Data Transformation
+       ↓
+Data Analysis
+       ↓
+Data Visualization
+       ↓
+Interactive Power BI Dashboard
+       ↓
+Business Insights
